@@ -1,0 +1,62 @@
+{
+	"basics": {
+		"name": "Divyam Choudhary",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/78595780?s=400&u=609fd6b657db86d6e9d12cd68aedd293f6fa2b04&v=4",
+		"email": "2020kucp1098@iiitkota.ac.in",
+		"phone": "9783932110",
+		
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering",
+		"location": {
+			"address": "Charan Singh Nagar, Nawalgarh Road",
+			"postalCode": "332001",
+			"city": "Sikar",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "divyam-18",
+				"url": "https://www.github.com/divyam-18/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Divyam Choudhary",
+				"url": "www.linkedin.com/in/divyam-choudhary-a3537a202"
+			},
+			{
+				"network": "Instagram",
+				"username": "___divyam",
+				"url": "https://www.instagram.com/___divyam/"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Java"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket","Football","Volleyball"]
+
+        },
+        {
+            "name": "Gaming",
+            "keywords": [
+                "gaming"
+            ]
+	}],
+	"references": []
+}
